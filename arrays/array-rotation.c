@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int *left_rotation(int *arr, int size_of_array, int num_of_rotations)
+void left_rotation(int *arr, int size_of_array, int num_of_rotations)
 {
     int i = 0, j = 0;
 
